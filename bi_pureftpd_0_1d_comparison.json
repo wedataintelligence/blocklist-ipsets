@@ -1,0 +1,86 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 261197,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 38912,
+		"common": 21
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 56,
+		"common": 21
+	},
+	{
+		"name": "bi_proftpd_0_1d",
+		"category": "attacks",
+		"ips": 22,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 32380,
+		"common": 14
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 10822,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 2826,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 360,
+		"common": 13
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 35748,
+		"common": 17
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 25600,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 40457,
+		"common": 16
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 43693,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9304052,
+		"common": 17
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2981,
+		"common": 12
+	}
+]

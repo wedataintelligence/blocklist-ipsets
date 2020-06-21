@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 38912,
+		"common": 7
+	},
+	{
+		"name": "bi_dns_0_1d",
+		"category": "attacks",
+		"ips": 15,
+		"common": 7
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 7
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756668351,
+		"common": 7
+	}
+]

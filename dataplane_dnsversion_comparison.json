@@ -1,0 +1,20 @@
+[
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 631321,
+		"common": 2
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 9,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 2
+	}
+]

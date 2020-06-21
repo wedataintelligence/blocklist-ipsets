@@ -1,0 +1,14 @@
+[
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 9,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 1
+	}
+]

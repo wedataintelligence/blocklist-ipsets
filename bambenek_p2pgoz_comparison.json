@@ -1,0 +1,14 @@
+[
+	{
+		"name": "coinbl_hosts",
+		"category": "organizations",
+		"ips": 7959,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	}
+]
